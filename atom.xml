@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>thisiszyt.github.io</id>
+    <title>learningisfun</title>
+    <updated>2022-11-06T21:52:02.504Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="thisiszyt.github.io"/>
+    <link rel="self" href="thisiszyt.github.io/atom.xml"/>
+    <rights>All rights reserved 2022, learningisfun</rights>
+    <entry>
+        <title type="html"><![CDATA[TEsting]]></title>
+        <id>https://thisiszyt.github.io/testing</id>
+        <link href="https://thisiszyt.github.io/testing"/>
+        <updated>2022-11-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[testing
+]]></summary>
+        <content type="html"><![CDATA[<p>testing</p>
+]]></content>
+    </entry>
+</feed>
